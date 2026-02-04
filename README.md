@@ -9,14 +9,14 @@ Permite generar textos estandarizados, gestionar historial por usuario y trabaja
 ## 🚀 Características principales
 
 - 🔐 1. **Login de usuarios** (sesión por navegador)
--       - 👤 Campo *Quién cierra* autocompletado según el usuario logueado (editable)
+ - 👤 Campo *Quién cierra* autocompletado según el usuario logueado (editable)
 - ✍️ 2. Generación automática de cierre de tickets
--       - 📋 Copiar texto generado con un clic
--       - 🧾 Listas dinámicas según tipo de reporte (**FALLA / SOLICITUD**)
+ - 📋 Copiar texto generado con un clic
+ - 🧾 Listas dinámicas según tipo de reporte (**FALLA / SOLICITUD**)
 - 💾 3. Gestión de **soluciones predefinidas*
 - 🧠 4. Historial por usuario (localStorage)
--       - 🔍 Búsqueda en historial
--       - 📤 Exportación de historial a **Excel (CSV)**
+ - 🔍 Búsqueda en historial
+ - 📤 Exportación de historial a **Excel (CSV)**
 - 🌙 5. **Modo oscuro / modo claro**
 
 ---
