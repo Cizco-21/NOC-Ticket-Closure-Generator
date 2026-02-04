@@ -25,7 +25,7 @@ Permite generar textos estandarizados, gestionar historial por usuario y trabaja
 
 ---
 
-### ✅🔐 1. Al iniciar sesión:
+### 🔐 1. Al iniciar sesión:
 - Se cargan tus **presets personales**
 - Se muestra tu **historial individual**
 - El campo **QUIÉN CIERRA** se completa automáticamente (editable)
@@ -85,8 +85,6 @@ Completa los campos según el ticket que estás cerrando:
   - Producto
   - Fecha
   - Texto libre
-
----
 
 ### 📤 Exportar historial a Excel
 
