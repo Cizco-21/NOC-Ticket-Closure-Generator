@@ -1,4 +1,4 @@
-# 🛠 NOC Ticket Closure Generator
+# 🛠 NOC Ticket Closure Generator - GMELENDEZ - V.1.10
 
 Generador web para **cierre de tickets NOC**, diseñado para agilizar la documentación de incidentes y solicitudes.
 
@@ -101,4 +101,7 @@ Completa los campos según el ticket que estás cerrando:
   - No se comparten entre equipos
   - No se suben a internet
 - Si se limpia el navegador, el historial se pierde
+
+---
+GMELENDEZ - V.1.10
 
