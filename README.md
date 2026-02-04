@@ -24,10 +24,21 @@ Permite generar textos estandarizados, gestionar historial por usuario y trabaja
 
 ---
 
-✅ Al iniciar sesión:
+## ✅🔐 Al iniciar sesión:
 - Se cargan tus **presets personales**
 - Se muestra tu **historial individual**
 - El campo **QUIÉN CIERRA** se completa automáticamente (editable)
+
+---
+### 🛠 2. Llenado del formulario
+
+Completa los campos según el ticket que estás cerrando:
+
+**CAUSA DE FALLA**
+   - La lista cambia automáticamente según el tipo de **REPORTE**
+     - FALLA → causas técnicas
+     - SOLICITUD → requerimientos administrativos o de configuración
+
 
 ---
 
@@ -56,6 +67,9 @@ Permite generar textos estandarizados, gestionar historial por usuario y trabaja
 - Presiona **✍️ Escribir**
 - El texto completo se genera automáticamente en el área inferior
 - El resultado se guarda automáticamente en el **historial**
+
+- Presiona **📋 Copiar**
+- El texto queda listo para pegar.
 
 ### 📜 Historial
 
